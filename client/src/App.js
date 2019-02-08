@@ -10,8 +10,8 @@ function App() {
       <Router>
         <div>
           <Nav />
-          <div className="jumbotron text-center col-md-10 mx-auto">
-          <h1>Google Books</h1>
+          <div id="jb" className="jumbotron text-center col-md-10 mx-auto">
+          
           </div>
           <Switch>
             <Route exact path="/" component ={Search}/>

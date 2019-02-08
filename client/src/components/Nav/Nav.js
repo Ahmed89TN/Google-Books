@@ -1,11 +1,11 @@
 import React from 'react';
-
+import './Nav.css';
 function Nav() {
     return (
         <div >
             <ul className="nav">
                 <li className="nav-item mx-auto">
-                    <h3 className="page-title">Google Books</h3>
+                    <h3  className="page-title">Google Books</h3>
                 </li>
                 <li className="nav-item mx-auto">
                     <a className="nav-link" href="/search">Search for a Book</a>

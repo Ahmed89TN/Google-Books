@@ -53,7 +53,7 @@ class Search extends Component {
             <div className="col-md-10 mx-auto text-center">
                 <div className="row">
                     <form className="col-md-6 mx-auto">
-                        <h4 className="ml-1">Search Book </h4>
+                        <h4 className="ml-1">Search for a Book </h4>
                         <Input
                             value={this.state.currentTerm}
                             onChange={this.handleInputChange}

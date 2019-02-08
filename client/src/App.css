@@ -18,9 +18,7 @@
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
-}
+
 
 @keyframes App-logo-spin {
   from {
@@ -29,4 +27,8 @@
   to {
     transform: rotate(360deg);
   }
+}
+#jb{
+  background-image: url("http://www.tokkoro.com/picsup/3060589-black-and-white_bookcase_books_bookshelves_bookstore_business_education_indoors_learning_library_literature_person_school_study.jpg");
+  padding: 114px;
 }
